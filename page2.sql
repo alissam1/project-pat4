@@ -7,9 +7,9 @@ CREATE TABLE `cars` (
   
 ) AUTO_INCREMENT=1;
 
-INSERT INTO `type of car` (`id`,`name) VALUES 
+INSERT INTO `type of car` (`id`,`name`) VALUES 
 VALUES
-	(1,'Ferrari 812'),
+	(1,'Ferrari'),
 	(2,'Ford GT'),
 	(121,'Lamborghini Huracan'),
 	(3,'Porche 911'),
